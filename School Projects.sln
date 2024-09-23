@@ -8,6 +8,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObjemAPovrchKvadru", "Objem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatoveTypy", "DatoveTypy\DatoveTypy.csproj", "{465DE658-11BC-445D-8D6F-DCB1237FAFEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObsahCtvrce", "ObsahCtvrce\ObsahCtvrce.csproj", "{A9ED0474-5B75-45A1-A258-34E8AB80BF19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{465DE658-11BC-445D-8D6F-DCB1237FAFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{465DE658-11BC-445D-8D6F-DCB1237FAFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{465DE658-11BC-445D-8D6F-DCB1237FAFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9ED0474-5B75-45A1-A258-34E8AB80BF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9ED0474-5B75-45A1-A258-34E8AB80BF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9ED0474-5B75-45A1-A258-34E8AB80BF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9ED0474-5B75-45A1-A258-34E8AB80BF19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BFBD3233-0386-4DF1-8AE1-56DB0DF1CADD} = {AE4F94C0-2B3A-404B-B567-D9E003E895E7}
