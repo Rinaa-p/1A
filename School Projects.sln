@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjemAPovrchKvadru", "Objem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PytagorovaVeta", "..\PytagorovaVeta\PytagorovaVeta\PytagorovaVeta.csproj", "{98A40069-74D1-4CDD-B20F-956094F2BD25}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObjemAPovrchKvadru", "ObjemAPovrchKvadru", "{AE4F94C0-2B3A-404B-B567-D9E003E895E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,8 @@ Global
 		{98A40069-74D1-4CDD-B20F-956094F2BD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98A40069-74D1-4CDD-B20F-956094F2BD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98A40069-74D1-4CDD-B20F-956094F2BD25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BFBD3233-0386-4DF1-8AE1-56DB0DF1CADD} = {AE4F94C0-2B3A-404B-B567-D9E003E895E7}
 	EndGlobalSection
 EndGlobal

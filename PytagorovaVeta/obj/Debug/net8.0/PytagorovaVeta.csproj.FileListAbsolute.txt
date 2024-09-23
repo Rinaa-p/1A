@@ -1,0 +1,14 @@
+C:\Users\Hp Elitebook\RiderProjects\PytagorovaVeta\PytagorovaVeta\bin\Debug\net8.0\PytagorovaVeta.exe
+C:\Users\Hp Elitebook\RiderProjects\PytagorovaVeta\PytagorovaVeta\bin\Debug\net8.0\PytagorovaVeta.deps.json
+C:\Users\Hp Elitebook\RiderProjects\PytagorovaVeta\PytagorovaVeta\bin\Debug\net8.0\PytagorovaVeta.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\PytagorovaVeta\PytagorovaVeta\bin\Debug\net8.0\PytagorovaVeta.dll
+C:\Users\Hp Elitebook\RiderProjects\PytagorovaVeta\PytagorovaVeta\bin\Debug\net8.0\PytagorovaVeta.pdb
+C:\Users\Hp Elitebook\RiderProjects\PytagorovaVeta\PytagorovaVeta\obj\Debug\net8.0\PytagorovaVeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\PytagorovaVeta\PytagorovaVeta\obj\Debug\net8.0\PytagorovaVeta.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\PytagorovaVeta\PytagorovaVeta\obj\Debug\net8.0\PytagorovaVeta.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\PytagorovaVeta\PytagorovaVeta\obj\Debug\net8.0\PytagorovaVeta.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\PytagorovaVeta\PytagorovaVeta\obj\Debug\net8.0\PytagorovaVeta.dll
+C:\Users\Hp Elitebook\RiderProjects\PytagorovaVeta\PytagorovaVeta\obj\Debug\net8.0\refint\PytagorovaVeta.dll
+C:\Users\Hp Elitebook\RiderProjects\PytagorovaVeta\PytagorovaVeta\obj\Debug\net8.0\PytagorovaVeta.pdb
+C:\Users\Hp Elitebook\RiderProjects\PytagorovaVeta\PytagorovaVeta\obj\Debug\net8.0\PytagorovaVeta.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\PytagorovaVeta\PytagorovaVeta\obj\Debug\net8.0\ref\PytagorovaVeta.dll
