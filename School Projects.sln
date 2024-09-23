@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjemAPovrchKvadru", "ObjemAPovrchKvadru\ObjemAPovrchKvadru.csproj", "{BFBD3233-0386-4DF1-8AE1-56DB0DF1CADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PytagorovaVeta", "..\PytagorovaVeta\PytagorovaVeta\PytagorovaVeta.csproj", "{98A40069-74D1-4CDD-B20F-956094F2BD25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFBD3233-0386-4DF1-8AE1-56DB0DF1CADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBD3233-0386-4DF1-8AE1-56DB0DF1CADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBD3233-0386-4DF1-8AE1-56DB0DF1CADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBD3233-0386-4DF1-8AE1-56DB0DF1CADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98A40069-74D1-4CDD-B20F-956094F2BD25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A40069-74D1-4CDD-B20F-956094F2BD25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A40069-74D1-4CDD-B20F-956094F2BD25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A40069-74D1-4CDD-B20F-956094F2BD25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

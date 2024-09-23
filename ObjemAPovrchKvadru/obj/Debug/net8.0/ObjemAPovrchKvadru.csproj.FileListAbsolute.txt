@@ -1,0 +1,28 @@
+C:\Users\Hp Elitebook\RiderProjects\ObjemAPovrchKvadru\ObjemAPovrchKvadru\bin\Debug\net8.0\ObjemAPovrchKvadru.exe
+C:\Users\Hp Elitebook\RiderProjects\ObjemAPovrchKvadru\ObjemAPovrchKvadru\bin\Debug\net8.0\ObjemAPovrchKvadru.deps.json
+C:\Users\Hp Elitebook\RiderProjects\ObjemAPovrchKvadru\ObjemAPovrchKvadru\bin\Debug\net8.0\ObjemAPovrchKvadru.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\ObjemAPovrchKvadru\ObjemAPovrchKvadru\bin\Debug\net8.0\ObjemAPovrchKvadru.dll
+C:\Users\Hp Elitebook\RiderProjects\ObjemAPovrchKvadru\ObjemAPovrchKvadru\bin\Debug\net8.0\ObjemAPovrchKvadru.pdb
+C:\Users\Hp Elitebook\RiderProjects\ObjemAPovrchKvadru\ObjemAPovrchKvadru\obj\Debug\net8.0\ObjemAPovrchKvadru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\ObjemAPovrchKvadru\ObjemAPovrchKvadru\obj\Debug\net8.0\ObjemAPovrchKvadru.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\ObjemAPovrchKvadru\ObjemAPovrchKvadru\obj\Debug\net8.0\ObjemAPovrchKvadru.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\ObjemAPovrchKvadru\ObjemAPovrchKvadru\obj\Debug\net8.0\ObjemAPovrchKvadru.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\ObjemAPovrchKvadru\ObjemAPovrchKvadru\obj\Debug\net8.0\ObjemAPovrchKvadru.dll
+C:\Users\Hp Elitebook\RiderProjects\ObjemAPovrchKvadru\ObjemAPovrchKvadru\obj\Debug\net8.0\refint\ObjemAPovrchKvadru.dll
+C:\Users\Hp Elitebook\RiderProjects\ObjemAPovrchKvadru\ObjemAPovrchKvadru\obj\Debug\net8.0\ObjemAPovrchKvadru.pdb
+C:\Users\Hp Elitebook\RiderProjects\ObjemAPovrchKvadru\ObjemAPovrchKvadru\obj\Debug\net8.0\ObjemAPovrchKvadru.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\ObjemAPovrchKvadru\ObjemAPovrchKvadru\obj\Debug\net8.0\ref\ObjemAPovrchKvadru.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ObjemAPovrchKvadru\bin\Debug\net8.0\ObjemAPovrchKvadru.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ObjemAPovrchKvadru\bin\Debug\net8.0\ObjemAPovrchKvadru.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ObjemAPovrchKvadru\bin\Debug\net8.0\ObjemAPovrchKvadru.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ObjemAPovrchKvadru\bin\Debug\net8.0\ObjemAPovrchKvadru.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ObjemAPovrchKvadru\bin\Debug\net8.0\ObjemAPovrchKvadru.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ObjemAPovrchKvadru\obj\Debug\net8.0\ObjemAPovrchKvadru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ObjemAPovrchKvadru\obj\Debug\net8.0\ObjemAPovrchKvadru.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ObjemAPovrchKvadru\obj\Debug\net8.0\ObjemAPovrchKvadru.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ObjemAPovrchKvadru\obj\Debug\net8.0\ObjemAPovrchKvadru.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ObjemAPovrchKvadru\obj\Debug\net8.0\ObjemAPovrchKvadru.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ObjemAPovrchKvadru\obj\Debug\net8.0\refint\ObjemAPovrchKvadru.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ObjemAPovrchKvadru\obj\Debug\net8.0\ObjemAPovrchKvadru.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ObjemAPovrchKvadru\obj\Debug\net8.0\ObjemAPovrchKvadru.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ObjemAPovrchKvadru\obj\Debug\net8.0\ref\ObjemAPovrchKvadru.dll
