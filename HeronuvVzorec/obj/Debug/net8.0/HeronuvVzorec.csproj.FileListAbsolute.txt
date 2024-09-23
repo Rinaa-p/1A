@@ -1,0 +1,14 @@
+C:\Users\Hp Elitebook\RiderProjects\HeronuvVzorec\HeronuvVzorec\obj\Debug\net8.0\HeronuvVzorec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\HeronuvVzorec\HeronuvVzorec\obj\Debug\net8.0\HeronuvVzorec.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\HeronuvVzorec\HeronuvVzorec\obj\Debug\net8.0\HeronuvVzorec.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\HeronuvVzorec\HeronuvVzorec\obj\Debug\net8.0\HeronuvVzorec.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\HeronuvVzorec\HeronuvVzorec\bin\Debug\net8.0\HeronuvVzorec.exe
+C:\Users\Hp Elitebook\RiderProjects\HeronuvVzorec\HeronuvVzorec\bin\Debug\net8.0\HeronuvVzorec.deps.json
+C:\Users\Hp Elitebook\RiderProjects\HeronuvVzorec\HeronuvVzorec\bin\Debug\net8.0\HeronuvVzorec.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\HeronuvVzorec\HeronuvVzorec\bin\Debug\net8.0\HeronuvVzorec.dll
+C:\Users\Hp Elitebook\RiderProjects\HeronuvVzorec\HeronuvVzorec\bin\Debug\net8.0\HeronuvVzorec.pdb
+C:\Users\Hp Elitebook\RiderProjects\HeronuvVzorec\HeronuvVzorec\obj\Debug\net8.0\HeronuvVzorec.dll
+C:\Users\Hp Elitebook\RiderProjects\HeronuvVzorec\HeronuvVzorec\obj\Debug\net8.0\refint\HeronuvVzorec.dll
+C:\Users\Hp Elitebook\RiderProjects\HeronuvVzorec\HeronuvVzorec\obj\Debug\net8.0\HeronuvVzorec.pdb
+C:\Users\Hp Elitebook\RiderProjects\HeronuvVzorec\HeronuvVzorec\obj\Debug\net8.0\HeronuvVzorec.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\HeronuvVzorec\HeronuvVzorec\obj\Debug\net8.0\ref\HeronuvVzorec.dll

@@ -1,0 +1,14 @@
+C:\Users\Hp Elitebook\RiderProjects\NejSkola\NejSkola\bin\Debug\net8.0\NejSkola.exe
+C:\Users\Hp Elitebook\RiderProjects\NejSkola\NejSkola\bin\Debug\net8.0\NejSkola.deps.json
+C:\Users\Hp Elitebook\RiderProjects\NejSkola\NejSkola\bin\Debug\net8.0\NejSkola.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\NejSkola\NejSkola\bin\Debug\net8.0\NejSkola.dll
+C:\Users\Hp Elitebook\RiderProjects\NejSkola\NejSkola\bin\Debug\net8.0\NejSkola.pdb
+C:\Users\Hp Elitebook\RiderProjects\NejSkola\NejSkola\obj\Debug\net8.0\NejSkola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\NejSkola\NejSkola\obj\Debug\net8.0\NejSkola.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\NejSkola\NejSkola\obj\Debug\net8.0\NejSkola.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\NejSkola\NejSkola\obj\Debug\net8.0\NejSkola.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\NejSkola\NejSkola\obj\Debug\net8.0\NejSkola.dll
+C:\Users\Hp Elitebook\RiderProjects\NejSkola\NejSkola\obj\Debug\net8.0\refint\NejSkola.dll
+C:\Users\Hp Elitebook\RiderProjects\NejSkola\NejSkola\obj\Debug\net8.0\NejSkola.pdb
+C:\Users\Hp Elitebook\RiderProjects\NejSkola\NejSkola\obj\Debug\net8.0\NejSkola.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\NejSkola\NejSkola\obj\Debug\net8.0\ref\NejSkola.dll

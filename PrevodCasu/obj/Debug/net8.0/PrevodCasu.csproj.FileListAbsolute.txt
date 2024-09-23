@@ -1,0 +1,14 @@
+C:\Users\Hp Elitebook\RiderProjects\PrevodCasu\PrevodCasu\obj\Debug\net8.0\PrevodCasu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\PrevodCasu\PrevodCasu\obj\Debug\net8.0\PrevodCasu.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\PrevodCasu\PrevodCasu\obj\Debug\net8.0\PrevodCasu.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\PrevodCasu\PrevodCasu\obj\Debug\net8.0\PrevodCasu.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\PrevodCasu\PrevodCasu\bin\Debug\net8.0\PrevodCasu.exe
+C:\Users\Hp Elitebook\RiderProjects\PrevodCasu\PrevodCasu\bin\Debug\net8.0\PrevodCasu.deps.json
+C:\Users\Hp Elitebook\RiderProjects\PrevodCasu\PrevodCasu\bin\Debug\net8.0\PrevodCasu.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\PrevodCasu\PrevodCasu\bin\Debug\net8.0\PrevodCasu.dll
+C:\Users\Hp Elitebook\RiderProjects\PrevodCasu\PrevodCasu\bin\Debug\net8.0\PrevodCasu.pdb
+C:\Users\Hp Elitebook\RiderProjects\PrevodCasu\PrevodCasu\obj\Debug\net8.0\PrevodCasu.dll
+C:\Users\Hp Elitebook\RiderProjects\PrevodCasu\PrevodCasu\obj\Debug\net8.0\refint\PrevodCasu.dll
+C:\Users\Hp Elitebook\RiderProjects\PrevodCasu\PrevodCasu\obj\Debug\net8.0\PrevodCasu.pdb
+C:\Users\Hp Elitebook\RiderProjects\PrevodCasu\PrevodCasu\obj\Debug\net8.0\PrevodCasu.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\PrevodCasu\PrevodCasu\obj\Debug\net8.0\ref\PrevodCasu.dll

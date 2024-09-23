@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VymenaKaret/1.0.0": {
+        "runtime": {
+          "VymenaKaret.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VymenaKaret/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
