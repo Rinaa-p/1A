@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0f9f307-b47f-446f-99a7-71178d9ff5dc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/DatoveTypy/obj/Debug/net8.0/DatoveTypy.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DatoveTypy/obj/Debug/net8.0/DatoveTypy.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatoveTypy/obj/Debug/net8.0/DatoveTypy.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DatoveTypy/obj/Debug/net8.0/DatoveTypy.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DomaciAHoste/obj/Debug/net8.0/DomaciAHoste.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DomaciAHoste/obj/Debug/net8.0/DomaciAHoste.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DomaciAHoste/obj/Debug/net8.0/DomaciAHoste.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DomaciAHoste/obj/Debug/net8.0/DomaciAHoste.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DomaciAHoste/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/DomaciAHoste/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NakupniKosik/obj/Debug/net8.0/NakupniKosik.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NakupniKosik/obj/Debug/net8.0/NakupniKosik.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NakupniKosik/obj/Debug/net8.0/NakupniKosik.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NakupniKosik/obj/Debug/net8.0/NakupniKosik.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NakupniKosik/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/NakupniKosik/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NejSkola/obj/Debug/net8.0/NejSkola.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NejSkola/obj/Debug/net8.0/NejSkola.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NejSkola/obj/Debug/net8.0/NejSkola.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NejSkola/obj/Debug/net8.0/NejSkola.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NejSkola/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/NejSkola/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjemAPovrchKvadru/obj/Debug/net8.0/ObjemAPovrchKvadru.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ObjemAPovrchKvadru/obj/Debug/net8.0/ObjemAPovrchKvadru.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObjemAPovrchKvadru/obj/Debug/net8.0/ObjemAPovrchKvadru.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ObjemAPovrchKvadru/obj/Debug/net8.0/ObjemAPovrchKvadru.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObsahCtvrce/obj/Debug/net8.0/ObsahCtvrce.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ObsahCtvrce/obj/Debug/net8.0/ObsahCtvrce.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObsahCtvrce/obj/Debug/net8.0/ObsahCtvrce.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ObsahCtvrce/obj/Debug/net8.0/ObsahCtvrce.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ObsahCtvrce/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/ObsahCtvrce/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/School Projects.sln" beforeDir="false" afterPath="$PROJECT_DIR$/School Projects.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VymenaKaret/obj/Debug/net8.0/VymenaKaret.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VymenaKaret/obj/Debug/net8.0/VymenaKaret.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VymenaKaret/obj/Debug/net8.0/VymenaKaret.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VymenaKaret/obj/Debug/net8.0/VymenaKaret.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VymenaKaret/obj/Debug/net8.0/VymenaKaret.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/VymenaKaret/obj/Debug/net8.0/VymenaKaret.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VymenaKaret/obj/Debug/net8.0/VymenaKaret.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VymenaKaret/obj/Debug/net8.0/VymenaKaret.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VymenaKaret/obj/VymenaKaret.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VymenaKaret/obj/VymenaKaret.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VymenaKaret/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/VymenaKaret/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VymenaKaret/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VymenaKaret/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VymenaKaret/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VymenaKaret/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VymenaKaret/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/VymenaKaret/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VymenaKaret/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/VymenaKaret/obj/rider.project.restore.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2mWzluytOFFKJPZfRKZHwhPqHUR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0f9f307-b47f-446f-99a7-71178d9ff5dc" name="Changes" comment="" />
+      <created>1727207275115</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727207275115</updated>
+      <workItem from="1727207276185" duration="354000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

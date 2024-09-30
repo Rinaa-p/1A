@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DatoveTypy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d169045b52f9d046ab981450fe3592d4a73cfa87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96b4fa8d92788c7c5e37472844cd466619aa9e66")]
 [assembly: System.Reflection.AssemblyProductAttribute("DatoveTypy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DatoveTypy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

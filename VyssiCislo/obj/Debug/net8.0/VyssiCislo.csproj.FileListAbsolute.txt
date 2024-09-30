@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VyssiCislo\obj\Debug\net8.0\VyssiCislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VyssiCislo\obj\Debug\net8.0\VyssiCislo.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VyssiCislo\obj\Debug\net8.0\VyssiCislo.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VyssiCislo\obj\Debug\net8.0\VyssiCislo.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VyssiCislo\obj\Debug\net8.0\VyssiCislo.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VyssiCislo\bin\Debug\net8.0\VyssiCislo.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VyssiCislo\bin\Debug\net8.0\VyssiCislo.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VyssiCislo\bin\Debug\net8.0\VyssiCislo.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VyssiCislo\bin\Debug\net8.0\VyssiCislo.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VyssiCislo\bin\Debug\net8.0\VyssiCislo.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VyssiCislo\obj\Debug\net8.0\VyssiCislo.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VyssiCislo\obj\Debug\net8.0\refint\VyssiCislo.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VyssiCislo\obj\Debug\net8.0\VyssiCislo.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VyssiCislo\obj\Debug\net8.0\VyssiCislo.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VyssiCislo\obj\Debug\net8.0\ref\VyssiCislo.dll
