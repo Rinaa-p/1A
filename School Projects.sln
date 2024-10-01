@@ -50,6 +50,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChybaPodminek5", "ChybaPodm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NacteniBoolZKlavesnice", "NacteniBoolZKlavesnice\NacteniBoolZKlavesnice.csproj", "{8508DF52-7E76-4948-AA1F-8745B9E173B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeSamohlaska", "JeSamohlaska\JeSamohlaska.csproj", "{6619FE42-8173-48CE-8812-9D0E383127D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -152,6 +154,10 @@ Global
 		{8508DF52-7E76-4948-AA1F-8745B9E173B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8508DF52-7E76-4948-AA1F-8745B9E173B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8508DF52-7E76-4948-AA1F-8745B9E173B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6619FE42-8173-48CE-8812-9D0E383127D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6619FE42-8173-48CE-8812-9D0E383127D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6619FE42-8173-48CE-8812-9D0E383127D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6619FE42-8173-48CE-8812-9D0E383127D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BFBD3233-0386-4DF1-8AE1-56DB0DF1CADD} = {AE4F94C0-2B3A-404B-B567-D9E003E895E7}
