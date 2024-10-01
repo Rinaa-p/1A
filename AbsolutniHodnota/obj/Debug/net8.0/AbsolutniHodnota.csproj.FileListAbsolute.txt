@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AbsolutniHodnota\bin\Debug\net8.0\AbsolutniHodnota.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AbsolutniHodnota\bin\Debug\net8.0\AbsolutniHodnota.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AbsolutniHodnota\bin\Debug\net8.0\AbsolutniHodnota.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AbsolutniHodnota\bin\Debug\net8.0\AbsolutniHodnota.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AbsolutniHodnota\bin\Debug\net8.0\AbsolutniHodnota.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AbsolutniHodnota\obj\Debug\net8.0\AbsolutniHodnota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AbsolutniHodnota\obj\Debug\net8.0\AbsolutniHodnota.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AbsolutniHodnota\obj\Debug\net8.0\AbsolutniHodnota.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AbsolutniHodnota\obj\Debug\net8.0\AbsolutniHodnota.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AbsolutniHodnota\obj\Debug\net8.0\AbsolutniHodnota.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AbsolutniHodnota\obj\Debug\net8.0\AbsolutniHodnota.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AbsolutniHodnota\obj\Debug\net8.0\refint\AbsolutniHodnota.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AbsolutniHodnota\obj\Debug\net8.0\AbsolutniHodnota.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AbsolutniHodnota\obj\Debug\net8.0\AbsolutniHodnota.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AbsolutniHodnota\obj\Debug\net8.0\ref\AbsolutniHodnota.dll

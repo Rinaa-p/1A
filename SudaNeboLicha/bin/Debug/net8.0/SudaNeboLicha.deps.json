@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SudaNeboLicha/1.0.0": {
+        "runtime": {
+          "SudaNeboLicha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SudaNeboLicha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

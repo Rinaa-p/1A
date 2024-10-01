@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ChybaPodminek4\bin\Debug\net8.0\ChybaPodminek4.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ChybaPodminek4\bin\Debug\net8.0\ChybaPodminek4.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ChybaPodminek4\bin\Debug\net8.0\ChybaPodminek4.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ChybaPodminek4\bin\Debug\net8.0\ChybaPodminek4.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ChybaPodminek4\bin\Debug\net8.0\ChybaPodminek4.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ChybaPodminek4\obj\Debug\net8.0\ChybaPodminek4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ChybaPodminek4\obj\Debug\net8.0\ChybaPodminek4.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ChybaPodminek4\obj\Debug\net8.0\ChybaPodminek4.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ChybaPodminek4\obj\Debug\net8.0\ChybaPodminek4.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ChybaPodminek4\obj\Debug\net8.0\ChybaPodminek4.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ChybaPodminek4\obj\Debug\net8.0\ChybaPodminek4.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ChybaPodminek4\obj\Debug\net8.0\refint\ChybaPodminek4.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ChybaPodminek4\obj\Debug\net8.0\ChybaPodminek4.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ChybaPodminek4\obj\Debug\net8.0\ChybaPodminek4.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ChybaPodminek4\obj\Debug\net8.0\ref\ChybaPodminek4.dll

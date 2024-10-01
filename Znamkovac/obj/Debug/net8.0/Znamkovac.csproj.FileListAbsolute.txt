@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Znamkovac\bin\Debug\net8.0\Znamkovac.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Znamkovac\bin\Debug\net8.0\Znamkovac.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Znamkovac\bin\Debug\net8.0\Znamkovac.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Znamkovac\bin\Debug\net8.0\Znamkovac.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Znamkovac\bin\Debug\net8.0\Znamkovac.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Znamkovac\obj\Debug\net8.0\Znamkovac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Znamkovac\obj\Debug\net8.0\Znamkovac.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Znamkovac\obj\Debug\net8.0\Znamkovac.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Znamkovac\obj\Debug\net8.0\Znamkovac.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Znamkovac\obj\Debug\net8.0\Znamkovac.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Znamkovac\obj\Debug\net8.0\Znamkovac.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Znamkovac\obj\Debug\net8.0\refint\Znamkovac.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Znamkovac\obj\Debug\net8.0\Znamkovac.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Znamkovac\obj\Debug\net8.0\Znamkovac.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Znamkovac\obj\Debug\net8.0\ref\Znamkovac.dll

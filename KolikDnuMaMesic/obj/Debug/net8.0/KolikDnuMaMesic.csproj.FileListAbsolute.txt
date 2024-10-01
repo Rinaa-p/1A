@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KolikDnuMaMesic\obj\Debug\net8.0\KolikDnuMaMesic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KolikDnuMaMesic\obj\Debug\net8.0\KolikDnuMaMesic.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KolikDnuMaMesic\obj\Debug\net8.0\KolikDnuMaMesic.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KolikDnuMaMesic\obj\Debug\net8.0\KolikDnuMaMesic.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KolikDnuMaMesic\obj\Debug\net8.0\KolikDnuMaMesic.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KolikDnuMaMesic\bin\Debug\net8.0\KolikDnuMaMesic.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KolikDnuMaMesic\bin\Debug\net8.0\KolikDnuMaMesic.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KolikDnuMaMesic\bin\Debug\net8.0\KolikDnuMaMesic.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KolikDnuMaMesic\bin\Debug\net8.0\KolikDnuMaMesic.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KolikDnuMaMesic\bin\Debug\net8.0\KolikDnuMaMesic.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KolikDnuMaMesic\obj\Debug\net8.0\KolikDnuMaMesic.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KolikDnuMaMesic\obj\Debug\net8.0\refint\KolikDnuMaMesic.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KolikDnuMaMesic\obj\Debug\net8.0\KolikDnuMaMesic.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KolikDnuMaMesic\obj\Debug\net8.0\KolikDnuMaMesic.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KolikDnuMaMesic\obj\Debug\net8.0\ref\KolikDnuMaMesic.dll

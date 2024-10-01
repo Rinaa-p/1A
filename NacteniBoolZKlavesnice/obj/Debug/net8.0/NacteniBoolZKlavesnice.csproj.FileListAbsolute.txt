@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NacteniBoolZKlavesnice\bin\Debug\net8.0\NacteniBoolZKlavesnice.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NacteniBoolZKlavesnice\bin\Debug\net8.0\NacteniBoolZKlavesnice.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NacteniBoolZKlavesnice\bin\Debug\net8.0\NacteniBoolZKlavesnice.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NacteniBoolZKlavesnice\bin\Debug\net8.0\NacteniBoolZKlavesnice.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NacteniBoolZKlavesnice\bin\Debug\net8.0\NacteniBoolZKlavesnice.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NacteniBoolZKlavesnice\obj\Debug\net8.0\NacteniBoolZKlavesnice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NacteniBoolZKlavesnice\obj\Debug\net8.0\NacteniBoolZKlavesnice.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NacteniBoolZKlavesnice\obj\Debug\net8.0\NacteniBoolZKlavesnice.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NacteniBoolZKlavesnice\obj\Debug\net8.0\NacteniBoolZKlavesnice.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NacteniBoolZKlavesnice\obj\Debug\net8.0\NacteniBoolZKlavesnice.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NacteniBoolZKlavesnice\obj\Debug\net8.0\NacteniBoolZKlavesnice.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NacteniBoolZKlavesnice\obj\Debug\net8.0\refint\NacteniBoolZKlavesnice.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NacteniBoolZKlavesnice\obj\Debug\net8.0\NacteniBoolZKlavesnice.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NacteniBoolZKlavesnice\obj\Debug\net8.0\NacteniBoolZKlavesnice.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NacteniBoolZKlavesnice\obj\Debug\net8.0\ref\NacteniBoolZKlavesnice.dll

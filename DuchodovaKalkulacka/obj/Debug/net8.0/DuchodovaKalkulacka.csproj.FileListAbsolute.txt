@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DuchodovaKalkulacka\bin\Debug\net8.0\DuchodovaKalkulacka.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DuchodovaKalkulacka\bin\Debug\net8.0\DuchodovaKalkulacka.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DuchodovaKalkulacka\bin\Debug\net8.0\DuchodovaKalkulacka.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DuchodovaKalkulacka\bin\Debug\net8.0\DuchodovaKalkulacka.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DuchodovaKalkulacka\bin\Debug\net8.0\DuchodovaKalkulacka.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DuchodovaKalkulacka\obj\Debug\net8.0\DuchodovaKalkulacka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DuchodovaKalkulacka\obj\Debug\net8.0\DuchodovaKalkulacka.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DuchodovaKalkulacka\obj\Debug\net8.0\DuchodovaKalkulacka.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DuchodovaKalkulacka\obj\Debug\net8.0\DuchodovaKalkulacka.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DuchodovaKalkulacka\obj\Debug\net8.0\DuchodovaKalkulacka.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DuchodovaKalkulacka\obj\Debug\net8.0\DuchodovaKalkulacka.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DuchodovaKalkulacka\obj\Debug\net8.0\refint\DuchodovaKalkulacka.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DuchodovaKalkulacka\obj\Debug\net8.0\DuchodovaKalkulacka.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DuchodovaKalkulacka\obj\Debug\net8.0\DuchodovaKalkulacka.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DuchodovaKalkulacka\obj\Debug\net8.0\ref\DuchodovaKalkulacka.dll

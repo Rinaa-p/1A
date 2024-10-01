@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\JeTrojuhelnik\bin\Debug\net8.0\JeTrojuhelnik.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\JeTrojuhelnik\bin\Debug\net8.0\JeTrojuhelnik.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\JeTrojuhelnik\bin\Debug\net8.0\JeTrojuhelnik.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\JeTrojuhelnik\bin\Debug\net8.0\JeTrojuhelnik.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\JeTrojuhelnik\bin\Debug\net8.0\JeTrojuhelnik.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\JeTrojuhelnik\obj\Debug\net8.0\JeTrojuhelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\JeTrojuhelnik\obj\Debug\net8.0\JeTrojuhelnik.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\JeTrojuhelnik\obj\Debug\net8.0\JeTrojuhelnik.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\JeTrojuhelnik\obj\Debug\net8.0\JeTrojuhelnik.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\JeTrojuhelnik\obj\Debug\net8.0\JeTrojuhelnik.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\JeTrojuhelnik\obj\Debug\net8.0\JeTrojuhelnik.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\JeTrojuhelnik\obj\Debug\net8.0\refint\JeTrojuhelnik.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\JeTrojuhelnik\obj\Debug\net8.0\JeTrojuhelnik.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\JeTrojuhelnik\obj\Debug\net8.0\JeTrojuhelnik.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\JeTrojuhelnik\obj\Debug\net8.0\ref\JeTrojuhelnik.dll

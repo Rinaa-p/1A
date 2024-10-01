@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DenVTydnu\bin\Debug\net8.0\DenVTydnu.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DenVTydnu\bin\Debug\net8.0\DenVTydnu.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DenVTydnu\bin\Debug\net8.0\DenVTydnu.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DenVTydnu\bin\Debug\net8.0\DenVTydnu.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DenVTydnu\bin\Debug\net8.0\DenVTydnu.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DenVTydnu\obj\Debug\net8.0\DenVTydnu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DenVTydnu\obj\Debug\net8.0\DenVTydnu.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DenVTydnu\obj\Debug\net8.0\DenVTydnu.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DenVTydnu\obj\Debug\net8.0\DenVTydnu.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DenVTydnu\obj\Debug\net8.0\DenVTydnu.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DenVTydnu\obj\Debug\net8.0\DenVTydnu.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DenVTydnu\obj\Debug\net8.0\refint\DenVTydnu.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DenVTydnu\obj\Debug\net8.0\DenVTydnu.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DenVTydnu\obj\Debug\net8.0\DenVTydnu.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DenVTydnu\obj\Debug\net8.0\ref\DenVTydnu.dll

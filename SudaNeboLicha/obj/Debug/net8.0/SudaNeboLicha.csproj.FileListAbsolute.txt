@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudaNeboLicha\bin\Debug\net8.0\SudaNeboLicha.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudaNeboLicha\bin\Debug\net8.0\SudaNeboLicha.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudaNeboLicha\bin\Debug\net8.0\SudaNeboLicha.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudaNeboLicha\bin\Debug\net8.0\SudaNeboLicha.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudaNeboLicha\bin\Debug\net8.0\SudaNeboLicha.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudaNeboLicha\obj\Debug\net8.0\SudaNeboLicha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudaNeboLicha\obj\Debug\net8.0\SudaNeboLicha.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudaNeboLicha\obj\Debug\net8.0\SudaNeboLicha.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudaNeboLicha\obj\Debug\net8.0\SudaNeboLicha.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudaNeboLicha\obj\Debug\net8.0\SudaNeboLicha.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudaNeboLicha\obj\Debug\net8.0\SudaNeboLicha.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudaNeboLicha\obj\Debug\net8.0\refint\SudaNeboLicha.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudaNeboLicha\obj\Debug\net8.0\SudaNeboLicha.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudaNeboLicha\obj\Debug\net8.0\SudaNeboLicha.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudaNeboLicha\obj\Debug\net8.0\ref\SudaNeboLicha.dll
