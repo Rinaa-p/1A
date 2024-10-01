@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ObsahCtvrce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96b4fa8d92788c7c5e37472844cd466619aa9e66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6688f324a026c3743b25f7d92e00034bd854d6b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ObsahCtvrce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ObsahCtvrce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

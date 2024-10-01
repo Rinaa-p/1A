@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KladneNeboZaporne\obj\Debug\net8.0\KladneNeboZaporne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KladneNeboZaporne\obj\Debug\net8.0\KladneNeboZaporne.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KladneNeboZaporne\obj\Debug\net8.0\KladneNeboZaporne.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KladneNeboZaporne\obj\Debug\net8.0\KladneNeboZaporne.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KladneNeboZaporne\obj\Debug\net8.0\KladneNeboZaporne.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KladneNeboZaporne\bin\Debug\net8.0\KladneNeboZaporne.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KladneNeboZaporne\bin\Debug\net8.0\KladneNeboZaporne.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KladneNeboZaporne\bin\Debug\net8.0\KladneNeboZaporne.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KladneNeboZaporne\bin\Debug\net8.0\KladneNeboZaporne.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KladneNeboZaporne\bin\Debug\net8.0\KladneNeboZaporne.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KladneNeboZaporne\obj\Debug\net8.0\KladneNeboZaporne.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KladneNeboZaporne\obj\Debug\net8.0\refint\KladneNeboZaporne.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KladneNeboZaporne\obj\Debug\net8.0\KladneNeboZaporne.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KladneNeboZaporne\obj\Debug\net8.0\KladneNeboZaporne.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KladneNeboZaporne\obj\Debug\net8.0\ref\KladneNeboZaporne.dll
