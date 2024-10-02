@@ -66,6 +66,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SvatebniPoradce3", "Svatebn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudijniPoradce", "StudijniPoradce\StudijniPoradce.csproj", "{EE7791E9-FD75-462A-8F61-696BEA8E3CD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelkaSlova", "DelkaSlova\DelkaSlova.csproj", "{F586FD87-1350-444F-993C-CF54505A974B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -200,6 +202,10 @@ Global
 		{EE7791E9-FD75-462A-8F61-696BEA8E3CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE7791E9-FD75-462A-8F61-696BEA8E3CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE7791E9-FD75-462A-8F61-696BEA8E3CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F586FD87-1350-444F-993C-CF54505A974B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F586FD87-1350-444F-993C-CF54505A974B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F586FD87-1350-444F-993C-CF54505A974B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F586FD87-1350-444F-993C-CF54505A974B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BFBD3233-0386-4DF1-8AE1-56DB0DF1CADD} = {AE4F94C0-2B3A-404B-B567-D9E003E895E7}

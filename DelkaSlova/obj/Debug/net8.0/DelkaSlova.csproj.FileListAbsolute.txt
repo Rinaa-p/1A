@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelkaSlova\bin\Debug\net8.0\DelkaSlova.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelkaSlova\bin\Debug\net8.0\DelkaSlova.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelkaSlova\bin\Debug\net8.0\DelkaSlova.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelkaSlova\bin\Debug\net8.0\DelkaSlova.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelkaSlova\bin\Debug\net8.0\DelkaSlova.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelkaSlova\obj\Debug\net8.0\DelkaSlova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelkaSlova\obj\Debug\net8.0\DelkaSlova.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelkaSlova\obj\Debug\net8.0\DelkaSlova.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelkaSlova\obj\Debug\net8.0\DelkaSlova.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelkaSlova\obj\Debug\net8.0\DelkaSlova.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelkaSlova\obj\Debug\net8.0\DelkaSlova.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelkaSlova\obj\Debug\net8.0\refint\DelkaSlova.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelkaSlova\obj\Debug\net8.0\DelkaSlova.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelkaSlova\obj\Debug\net8.0\DelkaSlova.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelkaSlova\obj\Debug\net8.0\ref\DelkaSlova.dll
