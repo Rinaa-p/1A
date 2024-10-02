@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TypZnaku\bin\Debug\net8.0\TypZnaku.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TypZnaku\bin\Debug\net8.0\TypZnaku.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TypZnaku\bin\Debug\net8.0\TypZnaku.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TypZnaku\bin\Debug\net8.0\TypZnaku.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TypZnaku\bin\Debug\net8.0\TypZnaku.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TypZnaku\obj\Debug\net8.0\TypZnaku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TypZnaku\obj\Debug\net8.0\TypZnaku.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TypZnaku\obj\Debug\net8.0\TypZnaku.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TypZnaku\obj\Debug\net8.0\TypZnaku.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TypZnaku\obj\Debug\net8.0\TypZnaku.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TypZnaku\obj\Debug\net8.0\TypZnaku.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TypZnaku\obj\Debug\net8.0\refint\TypZnaku.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TypZnaku\obj\Debug\net8.0\TypZnaku.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TypZnaku\obj\Debug\net8.0\TypZnaku.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TypZnaku\obj\Debug\net8.0\ref\TypZnaku.dll

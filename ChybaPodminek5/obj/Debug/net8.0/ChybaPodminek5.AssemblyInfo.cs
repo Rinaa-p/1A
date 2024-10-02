@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChybaPodminek5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ea6d766eb839095105bb00dca580f3dd2eab535")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33de35630496963d6a2dcbb980aac18b66dcda95")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChybaPodminek5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChybaPodminek5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

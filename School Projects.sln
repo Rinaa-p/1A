@@ -52,6 +52,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NacteniBoolZKlavesnice", "N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeSamohlaska", "JeSamohlaska\JeSamohlaska.csproj", "{6619FE42-8173-48CE-8812-9D0E383127D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZapisZlomku", "ZapisZlomku\ZapisZlomku.csproj", "{E2952EA5-EAF5-4AB3-9B4E-D6DC4CBB3F82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypZnaku", "TypZnaku\TypZnaku.csproj", "{4292234A-49A9-4D95-AB1B-14F1BADD7D50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -158,6 +162,14 @@ Global
 		{6619FE42-8173-48CE-8812-9D0E383127D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6619FE42-8173-48CE-8812-9D0E383127D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6619FE42-8173-48CE-8812-9D0E383127D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2952EA5-EAF5-4AB3-9B4E-D6DC4CBB3F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2952EA5-EAF5-4AB3-9B4E-D6DC4CBB3F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2952EA5-EAF5-4AB3-9B4E-D6DC4CBB3F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2952EA5-EAF5-4AB3-9B4E-D6DC4CBB3F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4292234A-49A9-4D95-AB1B-14F1BADD7D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4292234A-49A9-4D95-AB1B-14F1BADD7D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4292234A-49A9-4D95-AB1B-14F1BADD7D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4292234A-49A9-4D95-AB1B-14F1BADD7D50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BFBD3233-0386-4DF1-8AE1-56DB0DF1CADD} = {AE4F94C0-2B3A-404B-B567-D9E003E895E7}
