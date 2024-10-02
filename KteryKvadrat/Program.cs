@@ -30,7 +30,7 @@ class MainClass {
             Console.WriteLine("Je to nekde v levem dolnim kvadrantu");
         }
 
-    
+
         // Konec vašeho kódu
     }
 }
