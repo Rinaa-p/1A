@@ -60,6 +60,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KteryKvadrat", "KteryKvadra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SvatebniPoradce1", "SvatebniPoradce1\SvatebniPoradce1.csproj", "{4063AA0B-461C-43AC-BCC2-9D89C32FB61F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SvatebniPoradce2", "SvatebniPoradce2\SvatebniPoradce2.csproj", "{A04201E8-B516-44C9-8168-1FC736EFD55F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -182,6 +184,10 @@ Global
 		{4063AA0B-461C-43AC-BCC2-9D89C32FB61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4063AA0B-461C-43AC-BCC2-9D89C32FB61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4063AA0B-461C-43AC-BCC2-9D89C32FB61F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A04201E8-B516-44C9-8168-1FC736EFD55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04201E8-B516-44C9-8168-1FC736EFD55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04201E8-B516-44C9-8168-1FC736EFD55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04201E8-B516-44C9-8168-1FC736EFD55F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BFBD3233-0386-4DF1-8AE1-56DB0DF1CADD} = {AE4F94C0-2B3A-404B-B567-D9E003E895E7}
