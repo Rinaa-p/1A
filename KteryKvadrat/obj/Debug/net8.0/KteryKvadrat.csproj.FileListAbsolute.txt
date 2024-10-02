@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KteryKvadrat\bin\Debug\net8.0\KteryKvadrat.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KteryKvadrat\bin\Debug\net8.0\KteryKvadrat.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KteryKvadrat\bin\Debug\net8.0\KteryKvadrat.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KteryKvadrat\bin\Debug\net8.0\KteryKvadrat.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KteryKvadrat\bin\Debug\net8.0\KteryKvadrat.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KteryKvadrat\obj\Debug\net8.0\KteryKvadrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KteryKvadrat\obj\Debug\net8.0\KteryKvadrat.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KteryKvadrat\obj\Debug\net8.0\KteryKvadrat.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KteryKvadrat\obj\Debug\net8.0\KteryKvadrat.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KteryKvadrat\obj\Debug\net8.0\KteryKvadrat.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KteryKvadrat\obj\Debug\net8.0\KteryKvadrat.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KteryKvadrat\obj\Debug\net8.0\refint\KteryKvadrat.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KteryKvadrat\obj\Debug\net8.0\KteryKvadrat.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KteryKvadrat\obj\Debug\net8.0\KteryKvadrat.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KteryKvadrat\obj\Debug\net8.0\ref\KteryKvadrat.dll

@@ -56,6 +56,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZapisZlomku", "ZapisZlomku\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypZnaku", "TypZnaku\TypZnaku.csproj", "{4292234A-49A9-4D95-AB1B-14F1BADD7D50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KteryKvadrat", "KteryKvadrat\KteryKvadrat.csproj", "{EC96401D-2D09-42F9-B25A-F28657A1395F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -170,6 +172,10 @@ Global
 		{4292234A-49A9-4D95-AB1B-14F1BADD7D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4292234A-49A9-4D95-AB1B-14F1BADD7D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4292234A-49A9-4D95-AB1B-14F1BADD7D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC96401D-2D09-42F9-B25A-F28657A1395F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC96401D-2D09-42F9-B25A-F28657A1395F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC96401D-2D09-42F9-B25A-F28657A1395F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC96401D-2D09-42F9-B25A-F28657A1395F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BFBD3233-0386-4DF1-8AE1-56DB0DF1CADD} = {AE4F94C0-2B3A-404B-B567-D9E003E895E7}
