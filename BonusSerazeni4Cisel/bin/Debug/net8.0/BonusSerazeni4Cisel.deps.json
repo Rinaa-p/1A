@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BonusSerazeni4Cisel/1.0.0": {
+        "runtime": {
+          "BonusSerazeni4Cisel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BonusSerazeni4Cisel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

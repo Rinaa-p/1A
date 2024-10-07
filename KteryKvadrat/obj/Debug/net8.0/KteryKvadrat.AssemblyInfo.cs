@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KteryKvadrat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26ba0f819bf62d156b70abd3eb10a00b48a738dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb899fd1d15c5cb0bf10e4297f0930954946a9a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("KteryKvadrat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KteryKvadrat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

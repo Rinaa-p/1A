@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DelkaSlova")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee2ec5af85f6a5416f70e50e6e5b32211da75ec7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb899fd1d15c5cb0bf10e4297f0930954946a9a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DelkaSlova")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DelkaSlova")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

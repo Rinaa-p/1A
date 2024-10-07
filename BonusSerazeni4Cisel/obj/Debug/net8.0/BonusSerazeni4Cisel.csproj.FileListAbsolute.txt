@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\BonusSerazeni4Cisel\bin\Debug\net8.0\BonusSerazeni4Cisel.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\BonusSerazeni4Cisel\bin\Debug\net8.0\BonusSerazeni4Cisel.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\BonusSerazeni4Cisel\bin\Debug\net8.0\BonusSerazeni4Cisel.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\BonusSerazeni4Cisel\bin\Debug\net8.0\BonusSerazeni4Cisel.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\BonusSerazeni4Cisel\bin\Debug\net8.0\BonusSerazeni4Cisel.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\BonusSerazeni4Cisel\obj\Debug\net8.0\BonusSerazeni4Cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\BonusSerazeni4Cisel\obj\Debug\net8.0\BonusSerazeni4Cisel.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\BonusSerazeni4Cisel\obj\Debug\net8.0\BonusSerazeni4Cisel.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\BonusSerazeni4Cisel\obj\Debug\net8.0\BonusSerazeni4Cisel.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\BonusSerazeni4Cisel\obj\Debug\net8.0\BonusSerazeni4Cisel.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\BonusSerazeni4Cisel\obj\Debug\net8.0\BonusSerazeni4Cisel.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\BonusSerazeni4Cisel\obj\Debug\net8.0\refint\BonusSerazeni4Cisel.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\BonusSerazeni4Cisel\obj\Debug\net8.0\BonusSerazeni4Cisel.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\BonusSerazeni4Cisel\obj\Debug\net8.0\BonusSerazeni4Cisel.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\BonusSerazeni4Cisel\obj\Debug\net8.0\ref\BonusSerazeni4Cisel.dll
