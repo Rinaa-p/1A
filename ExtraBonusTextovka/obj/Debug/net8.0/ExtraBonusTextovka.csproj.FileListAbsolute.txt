@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ExtraBonusTextovka\bin\Debug\net8.0\ExtraBonusTextovka.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ExtraBonusTextovka\bin\Debug\net8.0\ExtraBonusTextovka.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ExtraBonusTextovka\bin\Debug\net8.0\ExtraBonusTextovka.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ExtraBonusTextovka\bin\Debug\net8.0\ExtraBonusTextovka.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ExtraBonusTextovka\bin\Debug\net8.0\ExtraBonusTextovka.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ExtraBonusTextovka\obj\Debug\net8.0\ExtraBonusTextovka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ExtraBonusTextovka\obj\Debug\net8.0\ExtraBonusTextovka.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ExtraBonusTextovka\obj\Debug\net8.0\ExtraBonusTextovka.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ExtraBonusTextovka\obj\Debug\net8.0\ExtraBonusTextovka.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ExtraBonusTextovka\obj\Debug\net8.0\ExtraBonusTextovka.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ExtraBonusTextovka\obj\Debug\net8.0\ExtraBonusTextovka.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ExtraBonusTextovka\obj\Debug\net8.0\refint\ExtraBonusTextovka.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ExtraBonusTextovka\obj\Debug\net8.0\ExtraBonusTextovka.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ExtraBonusTextovka\obj\Debug\net8.0\ExtraBonusTextovka.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\ExtraBonusTextovka\obj\Debug\net8.0\ref\ExtraBonusTextovka.dll

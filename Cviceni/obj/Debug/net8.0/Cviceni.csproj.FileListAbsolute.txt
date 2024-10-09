@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Cviceni\bin\Debug\net8.0\Cviceni.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Cviceni\bin\Debug\net8.0\Cviceni.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Cviceni\bin\Debug\net8.0\Cviceni.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Cviceni\bin\Debug\net8.0\Cviceni.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Cviceni\bin\Debug\net8.0\Cviceni.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Cviceni\obj\Debug\net8.0\Cviceni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Cviceni\obj\Debug\net8.0\Cviceni.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Cviceni\obj\Debug\net8.0\Cviceni.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Cviceni\obj\Debug\net8.0\Cviceni.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Cviceni\obj\Debug\net8.0\Cviceni.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Cviceni\obj\Debug\net8.0\Cviceni.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Cviceni\obj\Debug\net8.0\refint\Cviceni.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Cviceni\obj\Debug\net8.0\Cviceni.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Cviceni\obj\Debug\net8.0\Cviceni.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Cviceni\obj\Debug\net8.0\ref\Cviceni.dll

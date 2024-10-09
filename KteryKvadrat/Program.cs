@@ -13,21 +13,21 @@ class MainClass {
         {
             Console.WriteLine("Je to uprostred mezi vsemi kvardantama");
         }else if (x == 0 && y > 0){
-            Console.WriteLine("Je to uprostred mezi levemi hornim kvadrantem a pravem hornim kvadrantem");
+            Console.WriteLine("Je to uprostred mezi prvnim kvadrantem a druhem kvadrantem");
         }else if (x == 0 && y < 0){
-            Console.WriteLine("Je to uprostred mezi levem dolnim kvadrantem a pravim dolnim kvadrantem");
+            Console.WriteLine("Je to uprostred mezi trtim kvadrantem a ctvrtem kvadrantem");
         }else if (x > 0 && y == 0){
-            Console.WriteLine("Je to uprostred mezi pravem hornim kvadrantem a pravem dolnim kvadrantem");
+            Console.WriteLine("Je to uprostred mezi prvnim kvadrantem a pctvrtem kvadrantem");
         }else if (x < 0 && y == 0){
-            Console.WriteLine("Je to uprostred mezi levem hornim kvadrantem a levem hornim kvadrantem");
+            Console.WriteLine("Je to uprostred mezi druhem kvadrantem a treim kvadrantem");
         }else if (x > 0 && y > 0){
-            Console.WriteLine("Je to nekde v pravem hornim kvadrantu");
+            Console.WriteLine("Je to nekde v prvnim kvadrantu");
         }else if (x > 0 && y < 0){
-            Console.WriteLine("Je to nekde v pravem dolnim kvadrantu");
+            Console.WriteLine("Je to nekde v ctvrtem kvadrantu");
         }else if (x < 0 && y > 0){
-            Console.WriteLine("Je to nekde v levem hornim kvadrantu");
+            Console.WriteLine("Je to nekde v druhem kvadrantu");
         }else{
-            Console.WriteLine("Je to nekde v levem dolnim kvadrantu");
+            Console.WriteLine("Je to nekde v tretim kvadrantu");
         }
 
 
