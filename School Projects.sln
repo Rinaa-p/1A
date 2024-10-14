@@ -76,6 +76,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraBonusTextovka", "Extra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kostka", "Kostka\Kostka.csproj", "{5CB7FDF2-75F6-48AD-853F-211FBB0091FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HraVKostky", "HraVKostky\HraVKostky.csproj", "{95984A39-3509-4C8C-A601-B4217D82564B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -230,6 +232,10 @@ Global
 		{5CB7FDF2-75F6-48AD-853F-211FBB0091FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CB7FDF2-75F6-48AD-853F-211FBB0091FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CB7FDF2-75F6-48AD-853F-211FBB0091FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95984A39-3509-4C8C-A601-B4217D82564B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95984A39-3509-4C8C-A601-B4217D82564B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95984A39-3509-4C8C-A601-B4217D82564B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95984A39-3509-4C8C-A601-B4217D82564B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BFBD3233-0386-4DF1-8AE1-56DB0DF1CADD} = {AE4F94C0-2B3A-404B-B567-D9E003E895E7}

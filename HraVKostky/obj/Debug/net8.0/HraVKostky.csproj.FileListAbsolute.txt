@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\HraVKostky\bin\Debug\net8.0\HraVKostky.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\HraVKostky\bin\Debug\net8.0\HraVKostky.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\HraVKostky\bin\Debug\net8.0\HraVKostky.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\HraVKostky\bin\Debug\net8.0\HraVKostky.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\HraVKostky\bin\Debug\net8.0\HraVKostky.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\HraVKostky\obj\Debug\net8.0\HraVKostky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\HraVKostky\obj\Debug\net8.0\HraVKostky.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\HraVKostky\obj\Debug\net8.0\HraVKostky.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\HraVKostky\obj\Debug\net8.0\HraVKostky.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\HraVKostky\obj\Debug\net8.0\HraVKostky.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\HraVKostky\obj\Debug\net8.0\HraVKostky.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\HraVKostky\obj\Debug\net8.0\refint\HraVKostky.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\HraVKostky\obj\Debug\net8.0\HraVKostky.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\HraVKostky\obj\Debug\net8.0\HraVKostky.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\HraVKostky\obj\Debug\net8.0\ref\HraVKostky.dll
