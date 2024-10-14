@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Kostka\bin\Debug\net8.0\Kostka.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Kostka\bin\Debug\net8.0\Kostka.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Kostka\bin\Debug\net8.0\Kostka.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Kostka\bin\Debug\net8.0\Kostka.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Kostka\bin\Debug\net8.0\Kostka.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Kostka\obj\Debug\net8.0\Kostka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Kostka\obj\Debug\net8.0\Kostka.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Kostka\obj\Debug\net8.0\Kostka.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Kostka\obj\Debug\net8.0\Kostka.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Kostka\obj\Debug\net8.0\Kostka.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Kostka\obj\Debug\net8.0\Kostka.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Kostka\obj\Debug\net8.0\refint\Kostka.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Kostka\obj\Debug\net8.0\Kostka.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Kostka\obj\Debug\net8.0\Kostka.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\Kostka\obj\Debug\net8.0\ref\Kostka.dll

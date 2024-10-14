@@ -74,6 +74,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cviceni", "Cviceni\Cviceni.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraBonusTextovka", "ExtraBonusTextovka\ExtraBonusTextovka.csproj", "{BDDC31E7-E677-4EFE-B2E9-CA09FB62338F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kostka", "Kostka\Kostka.csproj", "{5CB7FDF2-75F6-48AD-853F-211FBB0091FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -224,6 +226,10 @@ Global
 		{BDDC31E7-E677-4EFE-B2E9-CA09FB62338F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDDC31E7-E677-4EFE-B2E9-CA09FB62338F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDDC31E7-E677-4EFE-B2E9-CA09FB62338F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB7FDF2-75F6-48AD-853F-211FBB0091FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB7FDF2-75F6-48AD-853F-211FBB0091FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB7FDF2-75F6-48AD-853F-211FBB0091FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB7FDF2-75F6-48AD-853F-211FBB0091FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BFBD3233-0386-4DF1-8AE1-56DB0DF1CADD} = {AE4F94C0-2B3A-404B-B567-D9E003E895E7}
