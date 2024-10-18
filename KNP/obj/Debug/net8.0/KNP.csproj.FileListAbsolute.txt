@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KNP\obj\Debug\net8.0\KNP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KNP\obj\Debug\net8.0\KNP.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KNP\obj\Debug\net8.0\KNP.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KNP\obj\Debug\net8.0\KNP.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KNP\obj\Debug\net8.0\KNP.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KNP\bin\Debug\net8.0\KNP.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KNP\bin\Debug\net8.0\KNP.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KNP\bin\Debug\net8.0\KNP.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KNP\bin\Debug\net8.0\KNP.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KNP\bin\Debug\net8.0\KNP.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KNP\obj\Debug\net8.0\KNP.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KNP\obj\Debug\net8.0\refint\KNP.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KNP\obj\Debug\net8.0\KNP.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KNP\obj\Debug\net8.0\KNP.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\KNP\obj\Debug\net8.0\ref\KNP.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HraVKostky")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6697021825f6294fe76cd13991b957e365131f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aaaae8ff3a0bfb07df4bde18b92b54740829541")]
 [assembly: System.Reflection.AssemblyProductAttribute("HraVKostky")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HraVKostky")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

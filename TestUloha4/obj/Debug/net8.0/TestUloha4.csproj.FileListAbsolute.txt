@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TestUloha4\bin\Debug\net8.0\TestUloha4.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TestUloha4\bin\Debug\net8.0\TestUloha4.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TestUloha4\bin\Debug\net8.0\TestUloha4.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TestUloha4\bin\Debug\net8.0\TestUloha4.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TestUloha4\bin\Debug\net8.0\TestUloha4.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TestUloha4\obj\Debug\net8.0\TestUloha4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TestUloha4\obj\Debug\net8.0\TestUloha4.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TestUloha4\obj\Debug\net8.0\TestUloha4.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TestUloha4\obj\Debug\net8.0\TestUloha4.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TestUloha4\obj\Debug\net8.0\TestUloha4.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TestUloha4\obj\Debug\net8.0\TestUloha4.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TestUloha4\obj\Debug\net8.0\refint\TestUloha4.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TestUloha4\obj\Debug\net8.0\TestUloha4.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TestUloha4\obj\Debug\net8.0\TestUloha4.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\TestUloha4\obj\Debug\net8.0\ref\TestUloha4.dll
