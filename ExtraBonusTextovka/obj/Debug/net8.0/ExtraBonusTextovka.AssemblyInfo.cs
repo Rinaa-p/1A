@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExtraBonusTextovka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aaaae8ff3a0bfb07df4bde18b92b54740829541")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef79c2304d4302e8c777b279eeab5d0b69dfad85")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExtraBonusTextovka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExtraBonusTextovka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
