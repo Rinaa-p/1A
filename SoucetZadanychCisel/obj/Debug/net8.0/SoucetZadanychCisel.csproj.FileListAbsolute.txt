@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetZadanychCisel\bin\Debug\net8.0\SoucetZadanychCisel.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetZadanychCisel\bin\Debug\net8.0\SoucetZadanychCisel.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetZadanychCisel\bin\Debug\net8.0\SoucetZadanychCisel.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetZadanychCisel\bin\Debug\net8.0\SoucetZadanychCisel.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetZadanychCisel\bin\Debug\net8.0\SoucetZadanychCisel.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetZadanychCisel\obj\Debug\net8.0\SoucetZadanychCisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetZadanychCisel\obj\Debug\net8.0\SoucetZadanychCisel.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetZadanychCisel\obj\Debug\net8.0\SoucetZadanychCisel.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetZadanychCisel\obj\Debug\net8.0\SoucetZadanychCisel.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetZadanychCisel\obj\Debug\net8.0\SoucetZadanychCisel.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetZadanychCisel\obj\Debug\net8.0\SoucetZadanychCisel.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetZadanychCisel\obj\Debug\net8.0\refint\SoucetZadanychCisel.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetZadanychCisel\obj\Debug\net8.0\SoucetZadanychCisel.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetZadanychCisel\obj\Debug\net8.0\SoucetZadanychCisel.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetZadanychCisel\obj\Debug\net8.0\ref\SoucetZadanychCisel.dll

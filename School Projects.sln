@@ -92,6 +92,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NactiSude", "NactiSude\Nact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudeVetsiNezDeset", "SudeVetsiNezDeset\SudeVetsiNezDeset.csproj", "{295F7117-5799-425D-8907-C5AD3CAFC41B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelitelnostPetkou", "DelitelnostPetkou\DelitelnostPetkou.csproj", "{1687F3C8-CE22-4F56-9CD8-8E98CC12BD3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoucetZadanychCisel", "SoucetZadanychCisel\SoucetZadanychCisel.csproj", "{9798CC1C-ACBF-4489-B5EE-CCB349DD172B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -278,6 +282,14 @@ Global
 		{295F7117-5799-425D-8907-C5AD3CAFC41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{295F7117-5799-425D-8907-C5AD3CAFC41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{295F7117-5799-425D-8907-C5AD3CAFC41B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1687F3C8-CE22-4F56-9CD8-8E98CC12BD3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1687F3C8-CE22-4F56-9CD8-8E98CC12BD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1687F3C8-CE22-4F56-9CD8-8E98CC12BD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1687F3C8-CE22-4F56-9CD8-8E98CC12BD3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9798CC1C-ACBF-4489-B5EE-CCB349DD172B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9798CC1C-ACBF-4489-B5EE-CCB349DD172B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9798CC1C-ACBF-4489-B5EE-CCB349DD172B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9798CC1C-ACBF-4489-B5EE-CCB349DD172B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BFBD3233-0386-4DF1-8AE1-56DB0DF1CADD} = {AE4F94C0-2B3A-404B-B567-D9E003E895E7}

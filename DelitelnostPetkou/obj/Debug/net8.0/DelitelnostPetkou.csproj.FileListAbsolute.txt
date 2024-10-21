@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelitelnostPetkou\bin\Debug\net8.0\DelitelnostPetkou.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelitelnostPetkou\bin\Debug\net8.0\DelitelnostPetkou.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelitelnostPetkou\bin\Debug\net8.0\DelitelnostPetkou.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelitelnostPetkou\bin\Debug\net8.0\DelitelnostPetkou.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelitelnostPetkou\bin\Debug\net8.0\DelitelnostPetkou.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelitelnostPetkou\obj\Debug\net8.0\DelitelnostPetkou.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelitelnostPetkou\obj\Debug\net8.0\DelitelnostPetkou.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelitelnostPetkou\obj\Debug\net8.0\DelitelnostPetkou.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelitelnostPetkou\obj\Debug\net8.0\DelitelnostPetkou.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelitelnostPetkou\obj\Debug\net8.0\DelitelnostPetkou.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelitelnostPetkou\obj\Debug\net8.0\DelitelnostPetkou.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelitelnostPetkou\obj\Debug\net8.0\refint\DelitelnostPetkou.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelitelnostPetkou\obj\Debug\net8.0\DelitelnostPetkou.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelitelnostPetkou\obj\Debug\net8.0\DelitelnostPetkou.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DelitelnostPetkou\obj\Debug\net8.0\ref\DelitelnostPetkou.dll
