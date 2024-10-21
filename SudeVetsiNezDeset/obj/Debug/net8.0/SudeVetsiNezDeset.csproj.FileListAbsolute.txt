@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudeVetsiNezDeset\bin\Debug\net8.0\SudeVetsiNezDeset.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudeVetsiNezDeset\bin\Debug\net8.0\SudeVetsiNezDeset.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudeVetsiNezDeset\bin\Debug\net8.0\SudeVetsiNezDeset.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudeVetsiNezDeset\bin\Debug\net8.0\SudeVetsiNezDeset.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudeVetsiNezDeset\bin\Debug\net8.0\SudeVetsiNezDeset.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudeVetsiNezDeset\obj\Debug\net8.0\SudeVetsiNezDeset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudeVetsiNezDeset\obj\Debug\net8.0\SudeVetsiNezDeset.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudeVetsiNezDeset\obj\Debug\net8.0\SudeVetsiNezDeset.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudeVetsiNezDeset\obj\Debug\net8.0\SudeVetsiNezDeset.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudeVetsiNezDeset\obj\Debug\net8.0\SudeVetsiNezDeset.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudeVetsiNezDeset\obj\Debug\net8.0\SudeVetsiNezDeset.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudeVetsiNezDeset\obj\Debug\net8.0\refint\SudeVetsiNezDeset.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudeVetsiNezDeset\obj\Debug\net8.0\SudeVetsiNezDeset.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudeVetsiNezDeset\obj\Debug\net8.0\SudeVetsiNezDeset.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SudeVetsiNezDeset\obj\Debug\net8.0\ref\SudeVetsiNezDeset.dll

@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NactiSude\bin\Debug\net8.0\NactiSude.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NactiSude\bin\Debug\net8.0\NactiSude.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NactiSude\bin\Debug\net8.0\NactiSude.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NactiSude\bin\Debug\net8.0\NactiSude.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NactiSude\bin\Debug\net8.0\NactiSude.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NactiSude\obj\Debug\net8.0\NactiSude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NactiSude\obj\Debug\net8.0\NactiSude.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NactiSude\obj\Debug\net8.0\NactiSude.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NactiSude\obj\Debug\net8.0\NactiSude.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NactiSude\obj\Debug\net8.0\NactiSude.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NactiSude\obj\Debug\net8.0\NactiSude.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NactiSude\obj\Debug\net8.0\refint\NactiSude.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NactiSude\obj\Debug\net8.0\NactiSude.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NactiSude\obj\Debug\net8.0\NactiSude.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NactiSude\obj\Debug\net8.0\ref\NactiSude.dll

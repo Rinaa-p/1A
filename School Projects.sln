@@ -88,6 +88,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUloha1", "TestUloha1\Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MalaNasobilka", "MalaNasobilka\MalaNasobilka.csproj", "{3ACF391C-4CD5-4631-B758-92273ADB7269}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NactiSude", "NactiSude\NactiSude.csproj", "{8ABF4116-7D26-4AFE-B7D9-DB4FCA85B6F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudeVetsiNezDeset", "SudeVetsiNezDeset\SudeVetsiNezDeset.csproj", "{295F7117-5799-425D-8907-C5AD3CAFC41B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -266,6 +270,14 @@ Global
 		{3ACF391C-4CD5-4631-B758-92273ADB7269}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3ACF391C-4CD5-4631-B758-92273ADB7269}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3ACF391C-4CD5-4631-B758-92273ADB7269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ABF4116-7D26-4AFE-B7D9-DB4FCA85B6F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ABF4116-7D26-4AFE-B7D9-DB4FCA85B6F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ABF4116-7D26-4AFE-B7D9-DB4FCA85B6F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ABF4116-7D26-4AFE-B7D9-DB4FCA85B6F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{295F7117-5799-425D-8907-C5AD3CAFC41B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295F7117-5799-425D-8907-C5AD3CAFC41B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295F7117-5799-425D-8907-C5AD3CAFC41B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295F7117-5799-425D-8907-C5AD3CAFC41B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BFBD3233-0386-4DF1-8AE1-56DB0DF1CADD} = {AE4F94C0-2B3A-404B-B567-D9E003E895E7}
