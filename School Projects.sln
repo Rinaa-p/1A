@@ -96,6 +96,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelitelnostPetkou", "Delite
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoucetZadanychCisel", "SoucetZadanychCisel\SoucetZadanychCisel.csproj", "{9798CC1C-ACBF-4489-B5EE-CCB349DD172B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoucetCiselVIntervalu", "SoucetCiselVIntervalu\SoucetCiselVIntervalu.csproj", "{63D3AFCF-5F1B-406D-92E9-D82543FDBCCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -290,6 +292,10 @@ Global
 		{9798CC1C-ACBF-4489-B5EE-CCB349DD172B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9798CC1C-ACBF-4489-B5EE-CCB349DD172B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9798CC1C-ACBF-4489-B5EE-CCB349DD172B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63D3AFCF-5F1B-406D-92E9-D82543FDBCCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D3AFCF-5F1B-406D-92E9-D82543FDBCCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D3AFCF-5F1B-406D-92E9-D82543FDBCCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D3AFCF-5F1B-406D-92E9-D82543FDBCCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BFBD3233-0386-4DF1-8AE1-56DB0DF1CADD} = {AE4F94C0-2B3A-404B-B567-D9E003E895E7}

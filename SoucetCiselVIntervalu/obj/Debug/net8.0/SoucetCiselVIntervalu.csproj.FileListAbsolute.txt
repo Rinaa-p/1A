@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetCiselVIntervalu\bin\Debug\net8.0\SoucetCiselVIntervalu.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetCiselVIntervalu\bin\Debug\net8.0\SoucetCiselVIntervalu.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetCiselVIntervalu\bin\Debug\net8.0\SoucetCiselVIntervalu.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetCiselVIntervalu\bin\Debug\net8.0\SoucetCiselVIntervalu.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetCiselVIntervalu\bin\Debug\net8.0\SoucetCiselVIntervalu.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetCiselVIntervalu\obj\Debug\net8.0\SoucetCiselVIntervalu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetCiselVIntervalu\obj\Debug\net8.0\SoucetCiselVIntervalu.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetCiselVIntervalu\obj\Debug\net8.0\SoucetCiselVIntervalu.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetCiselVIntervalu\obj\Debug\net8.0\SoucetCiselVIntervalu.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetCiselVIntervalu\obj\Debug\net8.0\SoucetCiselVIntervalu.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetCiselVIntervalu\obj\Debug\net8.0\SoucetCiselVIntervalu.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetCiselVIntervalu\obj\Debug\net8.0\refint\SoucetCiselVIntervalu.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetCiselVIntervalu\obj\Debug\net8.0\SoucetCiselVIntervalu.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetCiselVIntervalu\obj\Debug\net8.0\SoucetCiselVIntervalu.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\SoucetCiselVIntervalu\obj\Debug\net8.0\ref\SoucetCiselVIntervalu.dll
