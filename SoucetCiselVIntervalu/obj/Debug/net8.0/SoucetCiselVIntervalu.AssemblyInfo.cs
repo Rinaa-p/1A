@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoucetCiselVIntervalu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b798bb7d15808c69b3c3ef931cb82e699d6251ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+626bd8dcf5d421aca39d7ac5ab36052aeda17bf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoucetCiselVIntervalu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoucetCiselVIntervalu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

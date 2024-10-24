@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SudeVetsiNezDeset")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44115ab5773bb965d028dc23dc355160a72d0ab4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+626bd8dcf5d421aca39d7ac5ab36052aeda17bf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SudeVetsiNezDeset")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SudeVetsiNezDeset")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

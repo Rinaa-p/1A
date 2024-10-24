@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AzPadneSestka\bin\Debug\net8.0\AzPadneSestka.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AzPadneSestka\bin\Debug\net8.0\AzPadneSestka.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AzPadneSestka\bin\Debug\net8.0\AzPadneSestka.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AzPadneSestka\bin\Debug\net8.0\AzPadneSestka.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AzPadneSestka\bin\Debug\net8.0\AzPadneSestka.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AzPadneSestka\obj\Debug\net8.0\AzPadneSestka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AzPadneSestka\obj\Debug\net8.0\AzPadneSestka.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AzPadneSestka\obj\Debug\net8.0\AzPadneSestka.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AzPadneSestka\obj\Debug\net8.0\AzPadneSestka.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AzPadneSestka\obj\Debug\net8.0\AzPadneSestka.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AzPadneSestka\obj\Debug\net8.0\AzPadneSestka.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AzPadneSestka\obj\Debug\net8.0\refint\AzPadneSestka.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AzPadneSestka\obj\Debug\net8.0\AzPadneSestka.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AzPadneSestka\obj\Debug\net8.0\AzPadneSestka.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\AzPadneSestka\obj\Debug\net8.0\ref\AzPadneSestka.dll

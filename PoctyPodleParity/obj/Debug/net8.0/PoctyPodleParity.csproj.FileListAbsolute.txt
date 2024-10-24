@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\PoctyPodleParity\bin\Debug\net8.0\PoctyPodleParity.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\PoctyPodleParity\bin\Debug\net8.0\PoctyPodleParity.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\PoctyPodleParity\bin\Debug\net8.0\PoctyPodleParity.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\PoctyPodleParity\bin\Debug\net8.0\PoctyPodleParity.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\PoctyPodleParity\bin\Debug\net8.0\PoctyPodleParity.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\PoctyPodleParity\obj\Debug\net8.0\PoctyPodleParity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\PoctyPodleParity\obj\Debug\net8.0\PoctyPodleParity.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\PoctyPodleParity\obj\Debug\net8.0\PoctyPodleParity.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\PoctyPodleParity\obj\Debug\net8.0\PoctyPodleParity.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\PoctyPodleParity\obj\Debug\net8.0\PoctyPodleParity.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\PoctyPodleParity\obj\Debug\net8.0\PoctyPodleParity.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\PoctyPodleParity\obj\Debug\net8.0\refint\PoctyPodleParity.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\PoctyPodleParity\obj\Debug\net8.0\PoctyPodleParity.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\PoctyPodleParity\obj\Debug\net8.0\PoctyPodleParity.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\PoctyPodleParity\obj\Debug\net8.0\ref\PoctyPodleParity.dll

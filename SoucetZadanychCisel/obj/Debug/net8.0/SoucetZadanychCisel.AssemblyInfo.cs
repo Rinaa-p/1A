@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoucetZadanychCisel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e413b54f2890483b46d0e7bc3d700346fe05f8e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+626bd8dcf5d421aca39d7ac5ab36052aeda17bf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoucetZadanychCisel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoucetZadanychCisel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
