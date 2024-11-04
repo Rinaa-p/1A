@@ -13,3 +13,18 @@ C:\Users\Hp Elitebook\RiderProjects\NakupniKosik\NakupniKosik\obj\Debug\net8.0\N
 C:\Users\Hp Elitebook\RiderProjects\NakupniKosik\NakupniKosik\obj\Debug\net8.0\NakupniKosik.genruntimeconfig.cache
 C:\Users\Hp Elitebook\RiderProjects\NakupniKosik\NakupniKosik\obj\Debug\net8.0\ref\NakupniKosik.dll
 C:\Users\Hp Elitebook\RiderProjects\NakupniKosik\NakupniKosik\obj\Debug\net8.0\NakupniKosik.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NakupniKosik\bin\Debug\net8.0\NakupniKosik.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NakupniKosik\bin\Debug\net8.0\NakupniKosik.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NakupniKosik\bin\Debug\net8.0\NakupniKosik.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NakupniKosik\bin\Debug\net8.0\NakupniKosik.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NakupniKosik\bin\Debug\net8.0\NakupniKosik.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NakupniKosik\obj\Debug\net8.0\NakupniKosik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NakupniKosik\obj\Debug\net8.0\NakupniKosik.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NakupniKosik\obj\Debug\net8.0\NakupniKosik.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NakupniKosik\obj\Debug\net8.0\NakupniKosik.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NakupniKosik\obj\Debug\net8.0\NakupniKosik.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NakupniKosik\obj\Debug\net8.0\NakupniKosik.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NakupniKosik\obj\Debug\net8.0\refint\NakupniKosik.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NakupniKosik\obj\Debug\net8.0\NakupniKosik.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NakupniKosik\obj\Debug\net8.0\NakupniKosik.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\NakupniKosik\obj\Debug\net8.0\ref\NakupniKosik.dll

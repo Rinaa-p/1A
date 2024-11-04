@@ -12,3 +12,18 @@ C:\Users\Hp Elitebook\RiderProjects\DatoveTypy\DatoveTypy\obj\Debug\net8.0\refin
 C:\Users\Hp Elitebook\RiderProjects\DatoveTypy\DatoveTypy\obj\Debug\net8.0\DatoveTypy.pdb
 C:\Users\Hp Elitebook\RiderProjects\DatoveTypy\DatoveTypy\obj\Debug\net8.0\DatoveTypy.genruntimeconfig.cache
 C:\Users\Hp Elitebook\RiderProjects\DatoveTypy\DatoveTypy\obj\Debug\net8.0\ref\DatoveTypy.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DatoveTypy\bin\Debug\net8.0\DatoveTypy.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DatoveTypy\bin\Debug\net8.0\DatoveTypy.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DatoveTypy\bin\Debug\net8.0\DatoveTypy.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DatoveTypy\bin\Debug\net8.0\DatoveTypy.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DatoveTypy\bin\Debug\net8.0\DatoveTypy.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DatoveTypy\obj\Debug\net8.0\DatoveTypy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DatoveTypy\obj\Debug\net8.0\DatoveTypy.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DatoveTypy\obj\Debug\net8.0\DatoveTypy.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DatoveTypy\obj\Debug\net8.0\DatoveTypy.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DatoveTypy\obj\Debug\net8.0\DatoveTypy.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DatoveTypy\obj\Debug\net8.0\DatoveTypy.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DatoveTypy\obj\Debug\net8.0\refint\DatoveTypy.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DatoveTypy\obj\Debug\net8.0\DatoveTypy.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DatoveTypy\obj\Debug\net8.0\DatoveTypy.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\DatoveTypy\obj\Debug\net8.0\ref\DatoveTypy.dll

@@ -1,0 +1,15 @@
+C:\Users\Hp Elitebook\RiderProjects\School Projects\MinimumZeCtyr\bin\Debug\net8.0\MinimumZeCtyr.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\MinimumZeCtyr\bin\Debug\net8.0\MinimumZeCtyr.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\MinimumZeCtyr\bin\Debug\net8.0\MinimumZeCtyr.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\MinimumZeCtyr\bin\Debug\net8.0\MinimumZeCtyr.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\MinimumZeCtyr\bin\Debug\net8.0\MinimumZeCtyr.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\MinimumZeCtyr\obj\Debug\net8.0\MinimumZeCtyr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\MinimumZeCtyr\obj\Debug\net8.0\MinimumZeCtyr.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\MinimumZeCtyr\obj\Debug\net8.0\MinimumZeCtyr.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\MinimumZeCtyr\obj\Debug\net8.0\MinimumZeCtyr.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\MinimumZeCtyr\obj\Debug\net8.0\MinimumZeCtyr.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\MinimumZeCtyr\obj\Debug\net8.0\MinimumZeCtyr.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\MinimumZeCtyr\obj\Debug\net8.0\refint\MinimumZeCtyr.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\MinimumZeCtyr\obj\Debug\net8.0\MinimumZeCtyr.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\MinimumZeCtyr\obj\Debug\net8.0\MinimumZeCtyr.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\MinimumZeCtyr\obj\Debug\net8.0\ref\MinimumZeCtyr.dll

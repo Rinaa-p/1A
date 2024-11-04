@@ -12,3 +12,18 @@ C:\Users\Hp Elitebook\RiderProjects\VymenaKaret\VymenaKaret\obj\Debug\net8.0\ref
 C:\Users\Hp Elitebook\RiderProjects\VymenaKaret\VymenaKaret\obj\Debug\net8.0\VymenaKaret.pdb
 C:\Users\Hp Elitebook\RiderProjects\VymenaKaret\VymenaKaret\obj\Debug\net8.0\VymenaKaret.genruntimeconfig.cache
 C:\Users\Hp Elitebook\RiderProjects\VymenaKaret\VymenaKaret\obj\Debug\net8.0\ref\VymenaKaret.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VymenaKaret\bin\Debug\net8.0\VymenaKaret.exe
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VymenaKaret\bin\Debug\net8.0\VymenaKaret.deps.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VymenaKaret\bin\Debug\net8.0\VymenaKaret.runtimeconfig.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VymenaKaret\bin\Debug\net8.0\VymenaKaret.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VymenaKaret\bin\Debug\net8.0\VymenaKaret.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VymenaKaret\obj\Debug\net8.0\VymenaKaret.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VymenaKaret\obj\Debug\net8.0\VymenaKaret.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VymenaKaret\obj\Debug\net8.0\VymenaKaret.AssemblyInfo.cs
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VymenaKaret\obj\Debug\net8.0\VymenaKaret.csproj.CoreCompileInputs.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VymenaKaret\obj\Debug\net8.0\VymenaKaret.sourcelink.json
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VymenaKaret\obj\Debug\net8.0\VymenaKaret.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VymenaKaret\obj\Debug\net8.0\refint\VymenaKaret.dll
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VymenaKaret\obj\Debug\net8.0\VymenaKaret.pdb
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VymenaKaret\obj\Debug\net8.0\VymenaKaret.genruntimeconfig.cache
+C:\Users\Hp Elitebook\RiderProjects\School Projects\VymenaKaret\obj\Debug\net8.0\ref\VymenaKaret.dll

@@ -100,6 +100,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoucetCiselVIntervalu", "So
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzPadneSestka", "AzPadneSestka\AzPadneSestka.csproj", "{C54499FA-3283-4267-993E-96C1D0F49554}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumZeCtyr", "MinimumZeCtyr\MinimumZeCtyr.csproj", "{2E6773B2-34DD-471B-B914-76CE87D36A6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -302,6 +304,10 @@ Global
 		{C54499FA-3283-4267-993E-96C1D0F49554}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C54499FA-3283-4267-993E-96C1D0F49554}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C54499FA-3283-4267-993E-96C1D0F49554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E6773B2-34DD-471B-B914-76CE87D36A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6773B2-34DD-471B-B914-76CE87D36A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6773B2-34DD-471B-B914-76CE87D36A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6773B2-34DD-471B-B914-76CE87D36A6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BFBD3233-0386-4DF1-8AE1-56DB0DF1CADD} = {AE4F94C0-2B3A-404B-B567-D9E003E895E7}
